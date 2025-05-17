@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=UbuntuVM
+Comment=Run vm Ubuntu
+Exec=ubuntuvm
+Icon=/home/definitly/2TB/vm/ubuntu/ubuntuvm/ubuntu_vm.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;
+Name[ru_RU]=UbuntuVM
